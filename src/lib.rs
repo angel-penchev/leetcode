@@ -9,3 +9,4 @@ pub mod lc0006_zigzag_conversion;
 pub mod lc0007a_reverse_integer;
 pub mod lc0007b_reverse_integer;
 pub mod lc0008_string_to_integer_atoi;
+pub mod lc0009_palindrome_number;
